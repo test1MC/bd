@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalConceptSet
+  SavedSource="file:///C:/Users/randonie/Documents/My Translated Projects/Bind detection test- All.liprjf/Target/Output/randonie/Temporary/GlobalConceptSet v.6.catapultconceptset">
+  <Concepts />
+  <SourceUrls>
+    <Url
+      Source="One - Copy (2).htm" />
+    <Url
+      Source="One - Copy (2).htm.skl" />
+    <Url
+      Source="One - Copy (2).htm.xlf" />
+    <Url
+      Source="One - Copy.htm" />
+    <Url
+      Source="One - Copy.htm.skl" />
+    <Url
+      Source="One - Copy.htm.xlf" />
+    <Url
+      Source="One.htm" />
+    <Url
+      Source="One.htm.skl" />
+    <Url
+      Source="One.htm.xlf" />
+    <Url
+      Source="Topic.htm" />
+    <Url
+      Source="Topic.htm.skl" />
+    <Url
+      Source="Topic.htm.xlf" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl.skl" />
+    <Url
+      Source="Resources/PageLayouts/Default.flpgl.xlf" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css.skl" />
+    <Url
+      Source="Resources/Stylesheets/Styles.css.xlf" />
+  </SourceUrls>
+  <UsedUrls />
+  <UsedConceptControlUrls />
+</CatapultGlobalConceptSet>
